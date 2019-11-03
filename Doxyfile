@@ -1,0 +1,11 @@
+# Doxyfile 1.8.11
+
+# This file describes the settings to be used by the documentation system
+
+# doxygen (www.doxygen.org) for a project.
+
+PROJECT_NAME = "NeuronNet"
+
+OUTPUT_DIRECTORY = ../doc
+
+INPUT = ../src
